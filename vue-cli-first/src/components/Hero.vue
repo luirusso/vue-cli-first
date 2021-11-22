@@ -1,5 +1,5 @@
 <template>
-  <img src="https://alumnimathematica.org/wp-content/uploads/2016/05/Alumni-Mathematica-Blog-hello-world.gif" alt="">
+  <img src="https://lucabozzetto.github.io/img/hello-world.png" alt="">
 </template>
 
 <script>
@@ -10,6 +10,7 @@ export default {
 
 <style>
     img {
-        margin: 40px 0 0
+        margin: 40px 0 0;
+        max-width: 70%
     }
 </style>
